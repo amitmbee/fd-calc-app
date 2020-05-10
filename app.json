@@ -2,8 +2,8 @@
   "name": "helloworld",
   "displayName": "helloworld",
   "expo": {
-    "name": "helloworld",
-    "slug": "helloworld",
+    "name": "Simple FD Calculator",
+    "slug": "simple-fd-calculator",
     "version": "1.0.0",
     "platforms": [
       "ios",
@@ -12,6 +12,7 @@
     ],
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "description": ""
   }
 }
