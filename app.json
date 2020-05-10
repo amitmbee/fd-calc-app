@@ -1,0 +1,17 @@
+{
+  "name": "helloworld",
+  "displayName": "helloworld",
+  "expo": {
+    "name": "helloworld",
+    "slug": "helloworld",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
